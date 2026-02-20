@@ -54,7 +54,7 @@ O projeto tem fins educacionais e futuras melhorias incluem implementação de c
 POST /conta/cadastro
 
 Body:
-
+```
 {
   "nome": "Usuario Nome",
   "email": "usuario@email.com",
@@ -62,7 +62,7 @@ Body:
   "cpf": "54271113107",
   "telefone": "1199999999"
 }
-
+```
 ---
 
 ### 📌 Login
@@ -70,12 +70,12 @@ Body:
 POST /conta/login
 
 Body:
-
+```
 {
   "email": "usuario@email.com",
   "senha": "123456"
 }
-
+```
 ---
 
 ## ⚙️ Variáveis de Ambiente
@@ -89,17 +89,17 @@ MONGO_URI=sua_string_de_conexao_mongodb
 ## 🚀 Como Executar o Projeto
 
 Clone o repositório:
-
+```
 git clone https://github.com/seu-usuario/authlab-backend.git
-
+```
 Instale as dependências:
-
+```
 npm install
-
+```
 Execute o servidor:
-
+```
 npm run dev
-
+```
 O servidor iniciará na porta definida
 
 ---
@@ -107,9 +107,9 @@ O servidor iniciará na porta definida
 ## 🌐 Integração com Frontend
 
 Este backend é consumido pela aplicação:
-
+```
 AuthLab Frontend
-
+```
 Certifique-se de que o backend esteja rodando antes de iniciar o frontend.
 
 ---
