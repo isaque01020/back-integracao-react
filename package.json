@@ -1,0 +1,23 @@
+{
+  "name": "projeto-prouni-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "cpf-cnpj-validator": "^1.0.3",
+    "dotenv": "^17.3.1",
+    "libphonenumber-js": "^1.12.37",
+    "mongodb": "^7.0.0",
+    "mongoose": "^9.1.5",
+    "nodemon": "^3.1.11",
+    "validator": "^13.15.26"
+  }
+}
