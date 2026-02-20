@@ -20,7 +20,7 @@ Front-end disponível em:
 ---
 
 ## 📂 Estrutura do Projeto
-
+´´´
 src/
  ├── config
  ├── controllers/
@@ -28,7 +28,7 @@ src/
  ├── routes/
  └── app.js
  server.js
-
+´´´
 Organização baseada na separação por responsabilidade (Model, Controller e Rotas).
 
 ---
