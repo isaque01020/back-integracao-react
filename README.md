@@ -6,7 +6,9 @@ Projeto criado com foco educacional para prática de construção de APIs, valid
 
 Front-end disponível em:
 
-https://github.com/isaque01020/Pratica-front-integracao
+  https://github.com/isaque01020/Pratica-front-integracao
+
+---
 
 ## 🛠 Tecnologias Utilizadas
 
