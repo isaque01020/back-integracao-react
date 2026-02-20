@@ -8,8 +8,6 @@ Front-end disponível em:
 
 https://github.com/isaque01020/Pratica-front-integracao
 
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - Node.js
