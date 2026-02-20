@@ -3,7 +3,6 @@
 API REST desenvolvida em Node.js para gerenciamento de usuários, oferecendo funcionalidades de cadastro e login integradas a uma aplicação frontend em React.
 
 Projeto criado com foco educacional para prática de construção de APIs, validação de dados e integração fullstack.
----
 
 Front-end disponível em:
 
